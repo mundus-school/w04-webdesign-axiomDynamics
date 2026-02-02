@@ -10,5 +10,5 @@ A design for the fictional futuristic sci-fi company Axiom Dynamics centered aro
 Open this project in VS Code and use **Live Server** to view it in your browser.
 
 ## Preview:
-https://mundus-school.github.io/w04-webdesign-axiomDynamics/
+https://mundus-school.github.io/w04-webdesign-axiomDynamics/<br>
 (Preview broken - Some sections not showing correctly. Will fix at a later date (Never))
